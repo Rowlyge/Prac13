@@ -13,3 +13,11 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
+
+# Бинарные файлы C
+din_phil_fixed
+din_philo_atomic
+
+# Общие бинарники
+/bin/
+/out/
